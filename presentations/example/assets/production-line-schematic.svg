@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Fictional five-station assembly cell</title>
+  <desc id="desc">Infeed, orientation, robotic assembly, vision inspection, and pack-out with 18 condition channels in total.</desc>
+  <rect width="1200" height="430" rx="24" fill="#F4F8F7"/>
+  <text x="52" y="70" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#163149">NORTHSTAR  /  FLEXIBLE CELL</text>
+  <text x="52" y="109" font-family="Arial,sans-serif" font-size="17" fill="#5B7280">Fictional pilot boundary · 5 stations · 18 condition channels</text>
+  <path d="M76 285 H1124" stroke="#2D7180" stroke-width="8" stroke-linecap="round"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(60 155)"><rect width="200" height="175" rx="16" fill="#FFFFFF" stroke="#8CC8C8" stroke-width="3"/><rect width="200" height="11" rx="5" fill="#1A929B"/><text x="100" y="67" font-size="21" font-weight="700" fill="#163149">INFEED</text><text x="100" y="108" font-size="16" fill="#526D7D">conveyor entry</text><text x="100" y="146" font-size="15" font-weight="700" fill="#1A929B">3 channels</text></g>
+    <g transform="translate(280 155)"><rect width="200" height="175" rx="16" fill="#FFFFFF" stroke="#8CC8C8" stroke-width="3"/><rect width="200" height="11" rx="5" fill="#1A929B"/><text x="100" y="67" font-size="21" font-weight="700" fill="#163149">ORIENTATION</text><text x="100" y="108" font-size="16" fill="#526D7D">part positioning</text><text x="100" y="146" font-size="15" font-weight="700" fill="#1A929B">4 channels</text></g>
+    <g transform="translate(500 155)"><rect width="200" height="175" rx="16" fill="#FFFFFF" stroke="#E6BD67" stroke-width="3"/><rect width="200" height="11" rx="5" fill="#D1A34A"/><text x="100" y="67" font-size="21" font-weight="700" fill="#163149">ROBOT</text><text x="100" y="108" font-size="16" fill="#526D7D">assembly</text><text x="100" y="146" font-size="15" font-weight="700" fill="#B7872E">5 channels</text></g>
+    <g transform="translate(720 155)"><rect width="200" height="175" rx="16" fill="#FFFFFF" stroke="#8CC8C8" stroke-width="3"/><rect width="200" height="11" rx="5" fill="#1A929B"/><text x="100" y="67" font-size="21" font-weight="700" fill="#163149">VISION</text><text x="100" y="108" font-size="16" fill="#526D7D">inspection</text><text x="100" y="146" font-size="15" font-weight="700" fill="#1A929B">4 channels</text></g>
+    <g transform="translate(940 155)"><rect width="200" height="175" rx="16" fill="#FFFFFF" stroke="#8CC8C8" stroke-width="3"/><rect width="200" height="11" rx="5" fill="#1A929B"/><text x="100" y="67" font-size="21" font-weight="700" fill="#163149">PACK-OUT</text><text x="100" y="108" font-size="16" fill="#526D7D">finished module</text><text x="100" y="146" font-size="15" font-weight="700" fill="#1A929B">2 channels</text></g>
+  </g>
+  <text x="52" y="391" font-family="Arial,sans-serif" font-size="15" fill="#637A88">Original diagram for a fictional test fixture. Use as reference or recreate natively in PowerPoint.</text>
+</svg>

@@ -1,0 +1,851 @@
+{
+  "id": "example-project",
+  "displayName": "Northstar Manufacturing Lab (fictional)",
+  "templateFile": "example-template.pptx",
+  "useCreationIds": false,
+  "notes": "Original public fixture template. Shape names were set in PowerPoint. This deck is a reusable template, not the finished pilot review.",
+  "archetypes": {
+    "cover": {
+      "slideNumber": 1,
+      "usage": "Opening title with project/topic subtitle and short meeting metadata.",
+      "fields": {
+        "title": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_TITLE"
+          }
+        },
+        "subtitle": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_SUBTITLE"
+          }
+        },
+        "meta": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_META"
+          }
+        }
+      },
+      "layoutContract": {
+        "fieldRegions": {
+          "title": "title",
+          "subtitle": "subtitle",
+          "meta": "meta"
+        },
+        "regions": {
+          "title": {
+            "x": 0.86,
+            "y": 2.35,
+            "w": 11.55,
+            "minHeight": 1.24,
+            "maxHeight": 1.5,
+            "fontSize": 40,
+            "minFontSize": 30,
+            "maxLines": 2
+          },
+          "subtitle": {
+            "x": 0.86,
+            "flowAfter": "title",
+            "gap": 0.18,
+            "w": 11.25,
+            "minHeight": 0.72,
+            "maxHeight": 1,
+            "fontSize": 22,
+            "minFontSize": 17,
+            "maxLines": 2
+          },
+          "meta": {
+            "x": 0.86,
+            "y": 5.95,
+            "w": 10.8,
+            "h": 0.35,
+            "fontSize": 13,
+            "minFontSize": 11,
+            "maxLines": 1
+          }
+        },
+        "reserved": [
+          {
+            "name": "brand-header",
+            "x": 0.55,
+            "y": 0.42,
+            "w": 4.3,
+            "h": 0.9
+          },
+          {
+            "name": "bottom-mark",
+            "x": 0,
+            "y": 6.75,
+            "w": 13.333,
+            "h": 0.75
+          }
+        ]
+      }
+    },
+    "sectionDivider": {
+      "slideNumber": 2,
+      "usage": "Section break or narrative reset with a short supporting line.",
+      "fields": {
+        "sectionTitle": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_SECTION_TITLE"
+          }
+        },
+        "sectionNote": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_SECTION_NOTE"
+          }
+        },
+        "page": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_PAGE"
+          }
+        }
+      },
+      "layoutContract": {
+        "fieldRegions": {
+          "sectionTitle": "title",
+          "sectionNote": "note"
+        },
+        "regions": {
+          "title": {
+            "x": 1.27,
+            "y": 2.55,
+            "w": 10.7,
+            "minHeight": 1.16,
+            "maxHeight": 1.48,
+            "fontSize": 41,
+            "minFontSize": 29,
+            "maxLines": 2
+          },
+          "note": {
+            "x": 1.27,
+            "flowAfter": "title",
+            "gap": 0.25,
+            "w": 10.4,
+            "minHeight": 0.79,
+            "maxHeight": 1.08,
+            "fontSize": 21,
+            "minFontSize": 17,
+            "maxLines": 2
+          }
+        },
+        "reserved": [
+          {
+            "name": "brand-header",
+            "x": 0.55,
+            "y": 0.42,
+            "w": 4.3,
+            "h": 0.9
+          },
+          {
+            "name": "footer",
+            "x": 0,
+            "y": 6.84,
+            "w": 13.333,
+            "h": 0.66
+          }
+        ]
+      }
+    },
+    "standardContent": {
+      "slideNumber": 3,
+      "usage": "Standard message, subtitle, and editable main content.",
+      "fields": {
+        "title": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_TITLE"
+          }
+        },
+        "body": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_BODY"
+          }
+        },
+        "page": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_PAGE"
+          }
+        }
+      },
+      "layoutContract": {
+        "fieldRegions": {
+          "title": "title",
+          "body": "subtitle"
+        },
+        "regions": {
+          "title": {
+            "x": 0.72,
+            "y": 0.79,
+            "w": 10.2,
+            "minHeight": 0.69,
+            "maxHeight": 1.12,
+            "fontSize": 28,
+            "minFontSize": 20,
+            "maxLines": 2
+          },
+          "subtitle": {
+            "x": 0.72,
+            "flowAfter": "title",
+            "gap": 0.14,
+            "w": 11.35,
+            "minHeight": 0.54,
+            "maxHeight": 0.84,
+            "fontSize": 16,
+            "minFontSize": 13,
+            "maxLines": 2
+          },
+          "visuals": {
+            "x": 0.91,
+            "w": 11.54,
+            "bottom": 6.4,
+            "flowAfter": "subtitle",
+            "gap": 0.18
+          }
+        },
+        "reserved": [
+          {
+            "name": "top-rule",
+            "x": 0,
+            "y": 0,
+            "w": 13.333,
+            "h": 0.12
+          },
+          {
+            "name": "wordmark",
+            "x": 11.3,
+            "y": 0.33,
+            "w": 2.03,
+            "h": 0.92
+          },
+          {
+            "name": "footer",
+            "x": 0,
+            "y": 6.84,
+            "w": 13.333,
+            "h": 0.66
+          }
+        ]
+      }
+    },
+    "twoColumn": {
+      "slideNumber": 4,
+      "usage": "Two editable columns for evidence, options, limitations, or comparison.",
+      "fields": {
+        "title": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_TITLE"
+          }
+        },
+        "leftHeading": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_LEFT_HEADING"
+          }
+        },
+        "leftBody": {
+          "kind": "paragraphs",
+          "selector": {
+            "name": "Field_LEFT_BODY"
+          }
+        },
+        "rightHeading": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_RIGHT_HEADING"
+          }
+        },
+        "rightBody": {
+          "kind": "paragraphs",
+          "selector": {
+            "name": "Field_RIGHT_BODY"
+          }
+        },
+        "page": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_PAGE"
+          }
+        }
+      },
+      "layoutContract": {
+        "fieldRegions": {
+          "title": "title",
+          "leftHeading": "leftHeading",
+          "leftBody": "leftBody",
+          "rightHeading": "rightHeading",
+          "rightBody": "rightBody"
+        },
+        "sharedTextGroups": [
+          ["leftBody", "rightBody"]
+        ],
+        "regions": {
+          "title": {
+            "x": 0.72,
+            "y": 0.79,
+            "w": 10.2,
+            "h": 0.69,
+            "fontSize": 28,
+            "minFontSize": 21,
+            "maxLines": 1
+          },
+          "leftHeading": {
+            "x": 1.03,
+            "y": 2.49,
+            "w": 5.08,
+            "h": 0.48,
+            "fontSize": 21,
+            "minFontSize": 17,
+            "maxLines": 1
+          },
+          "leftBody": {
+            "x": 1.03,
+            "y": 3.13,
+            "w": 5.08,
+            "h": 2.98,
+            "fontSize": 17,
+            "minFontSize": 15,
+            "maxLines": 10,
+            "paragraphGapInches": 0.16,
+            "leading": 1.2,
+            "lineSpacingPercent": 120,
+            "horizontalInsetInches": 0.22,
+            "bullet": {
+              "indentInches": 0.22,
+              "hangingInches": 0.13
+            }
+          },
+          "rightHeading": {
+            "x": 7.14,
+            "y": 2.49,
+            "w": 5.08,
+            "h": 0.48,
+            "fontSize": 21,
+            "minFontSize": 17,
+            "maxLines": 1
+          },
+          "rightBody": {
+            "x": 7.14,
+            "y": 3.13,
+            "w": 5.08,
+            "h": 2.98,
+            "fontSize": 17,
+            "minFontSize": 15,
+            "maxLines": 10,
+            "paragraphGapInches": 0.16,
+            "leading": 1.2,
+            "lineSpacingPercent": 120,
+            "horizontalInsetInches": 0.22,
+            "bullet": {
+              "indentInches": 0.22,
+              "hangingInches": 0.13
+            }
+          }
+        },
+        "reserved": [
+          {
+            "name": "top-rule",
+            "x": 0,
+            "y": 0,
+            "w": 13.333,
+            "h": 0.12
+          },
+          {
+            "name": "wordmark",
+            "x": 11.3,
+            "y": 0.33,
+            "w": 2.03,
+            "h": 0.92
+          },
+          {
+            "name": "footer",
+            "x": 0,
+            "y": 6.84,
+            "w": 13.333,
+            "h": 0.66
+          }
+        ]
+      }
+    },
+    "largeVisual": {
+      "slideNumber": 5,
+      "usage": "Large editable diagram or selected source asset, with clear title and subtitle.",
+      "fields": {
+        "title": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_TITLE"
+          }
+        },
+        "body": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_BODY"
+          }
+        },
+        "page": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_PAGE"
+          }
+        }
+      },
+      "layoutContract": {
+        "fieldRegions": {
+          "title": "title",
+          "body": "subtitle"
+        },
+        "regions": {
+          "title": {
+            "x": 0.72,
+            "y": 0.79,
+            "w": 10.2,
+            "minHeight": 0.69,
+            "maxHeight": 1.12,
+            "fontSize": 28,
+            "minFontSize": 20,
+            "maxLines": 2
+          },
+          "subtitle": {
+            "x": 0.72,
+            "flowAfter": "title",
+            "gap": 0.14,
+            "w": 11.35,
+            "minHeight": 0.54,
+            "maxHeight": 0.84,
+            "fontSize": 16,
+            "minFontSize": 13,
+            "maxLines": 2
+          },
+          "visuals": {
+            "x": 0.91,
+            "w": 11.54,
+            "bottom": 6.1,
+            "flowAfter": "subtitle",
+            "gap": 0.18
+          }
+        },
+        "reserved": [
+          {
+            "name": "top-rule",
+            "x": 0,
+            "y": 0,
+            "w": 13.333,
+            "h": 0.12
+          },
+          {
+            "name": "wordmark",
+            "x": 11.3,
+            "y": 0.33,
+            "w": 2.03,
+            "h": 0.92
+          },
+          {
+            "name": "footer",
+            "x": 0,
+            "y": 6.84,
+            "w": 13.333,
+            "h": 0.66
+          }
+        ]
+      }
+    },
+    "kpiResults": {
+      "slideNumber": 6,
+      "usage": "Four or fewer editable KPI/result cards in the main content region.",
+      "fields": {
+        "title": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_TITLE"
+          }
+        },
+        "body": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_BODY"
+          }
+        },
+        "page": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_PAGE"
+          }
+        }
+      },
+      "layoutContract": {
+        "fieldRegions": {
+          "title": "title",
+          "body": "subtitle"
+        },
+        "regions": {
+          "title": {
+            "x": 0.72,
+            "y": 0.79,
+            "w": 10.2,
+            "minHeight": 0.69,
+            "maxHeight": 1.12,
+            "fontSize": 28,
+            "minFontSize": 20,
+            "maxLines": 2
+          },
+          "subtitle": {
+            "x": 0.72,
+            "flowAfter": "title",
+            "gap": 0.14,
+            "w": 11.35,
+            "minHeight": 0.54,
+            "maxHeight": 0.84,
+            "fontSize": 16,
+            "minFontSize": 13,
+            "maxLines": 2
+          },
+          "visuals": {
+            "x": 0.83,
+            "w": 11.64,
+            "bottom": 6.33,
+            "flowAfter": "subtitle",
+            "gap": 0.18
+          }
+        },
+        "reserved": [
+          {
+            "name": "top-rule",
+            "x": 0,
+            "y": 0,
+            "w": 13.333,
+            "h": 0.12
+          },
+          {
+            "name": "wordmark",
+            "x": 11.3,
+            "y": 0.33,
+            "w": 2.03,
+            "h": 0.92
+          },
+          {
+            "name": "footer",
+            "x": 0,
+            "y": 6.84,
+            "w": 13.333,
+            "h": 0.66
+          }
+        ]
+      }
+    },
+    "processArchitecture": {
+      "slideNumber": 7,
+      "usage": "Editable process or architecture flow with a compact horizontal context label.",
+      "fields": {
+        "title": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_TITLE"
+          }
+        },
+        "body": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_BODY"
+          }
+        },
+        "page": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_PAGE"
+          }
+        }
+      },
+      "layoutContract": {
+        "fieldRegions": {
+          "title": "title",
+          "body": "subtitle"
+        },
+        "regions": {
+          "title": {
+            "x": 0.72,
+            "y": 0.79,
+            "w": 10.2,
+            "minHeight": 0.69,
+            "maxHeight": 1.12,
+            "fontSize": 28,
+            "minFontSize": 20,
+            "maxLines": 2
+          },
+          "subtitle": {
+            "x": 0.72,
+            "flowAfter": "title",
+            "gap": 0.14,
+            "w": 11.35,
+            "minHeight": 0.54,
+            "maxHeight": 0.84,
+            "fontSize": 16,
+            "minFontSize": 13,
+            "maxLines": 2
+          },
+          "visuals": {
+            "x": 0.91,
+            "w": 11.54,
+            "bottom": 6.32,
+            "flowAfter": "subtitle",
+            "gap": 0.18
+          }
+        },
+        "reserved": [
+          {
+            "name": "top-rule",
+            "x": 0,
+            "y": 0,
+            "w": 13.333,
+            "h": 0.12
+          },
+          {
+            "name": "wordmark",
+            "x": 11.3,
+            "y": 0.33,
+            "w": 2.03,
+            "h": 0.92
+          },
+          {
+            "name": "footer",
+            "x": 0,
+            "y": 6.84,
+            "w": 13.333,
+            "h": 0.66
+          }
+        ]
+      }
+    },
+    "roadmap": {
+      "slideNumber": 8,
+      "usage": "Editable timeline or gated next-phase roadmap.",
+      "fields": {
+        "title": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_TITLE"
+          }
+        },
+        "body": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_BODY"
+          }
+        },
+        "page": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_PAGE"
+          }
+        }
+      },
+      "layoutContract": {
+        "fieldRegions": {
+          "title": "title",
+          "body": "subtitle"
+        },
+        "regions": {
+          "title": {
+            "x": 0.72,
+            "y": 0.79,
+            "w": 10.2,
+            "minHeight": 0.69,
+            "maxHeight": 1.12,
+            "fontSize": 28,
+            "minFontSize": 20,
+            "maxLines": 2
+          },
+          "subtitle": {
+            "x": 0.72,
+            "flowAfter": "title",
+            "gap": 0.14,
+            "w": 11.35,
+            "minHeight": 0.54,
+            "maxHeight": 0.84,
+            "fontSize": 16,
+            "minFontSize": 13,
+            "maxLines": 2
+          },
+          "visuals": {
+            "x": 0.85,
+            "w": 11.6,
+            "bottom": 6.22,
+            "flowAfter": "subtitle",
+            "gap": 0.18
+          }
+        },
+        "reserved": [
+          {
+            "name": "top-rule",
+            "x": 0,
+            "y": 0,
+            "w": 13.333,
+            "h": 0.12
+          },
+          {
+            "name": "wordmark",
+            "x": 11.3,
+            "y": 0.33,
+            "w": 2.03,
+            "h": 0.92
+          },
+          {
+            "name": "footer",
+            "x": 0,
+            "y": 6.84,
+            "w": 13.333,
+            "h": 0.66
+          }
+        ]
+      }
+    },
+    "closing": {
+      "slideNumber": 9,
+      "usage": "Decision request, thanks, and next contact/action.",
+      "fields": {
+        "message": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_MESSAGE"
+          }
+        },
+        "nextStep": {
+          "kind": "text",
+          "selector": {
+            "name": "Field_NEXT_STEP"
+          }
+        }
+      },
+      "layoutContract": {
+        "fieldRegions": {
+          "message": "message",
+          "nextStep": "nextStep"
+        },
+        "regions": {
+          "message": {
+            "x": 0.86,
+            "y": 2.45,
+            "w": 11.45,
+            "minHeight": 1.24,
+            "maxHeight": 1.52,
+            "fontSize": 42,
+            "minFontSize": 30,
+            "maxLines": 2
+          },
+          "nextStep": {
+            "x": 0.86,
+            "flowAfter": "message",
+            "gap": 0.3,
+            "w": 11.3,
+            "minHeight": 0.82,
+            "maxHeight": 1.08,
+            "fontSize": 21,
+            "minFontSize": 16,
+            "maxLines": 2
+          }
+        },
+        "reserved": [
+          {
+            "name": "brand-header",
+            "x": 0.55,
+            "y": 0.42,
+            "w": 4.3,
+            "h": 0.9
+          },
+          {
+            "name": "footer",
+            "x": 0,
+            "y": 6.65,
+            "w": 13.333,
+            "h": 0.85
+          }
+        ]
+      }
+    }
+  },
+  "templateTestSlides": [
+    {
+      "archetype": "cover",
+      "content": {
+        "title": "SAMPLE PROJECT TITLE",
+        "subtitle": "A concise supporting line",
+        "meta": "PUBLIC TEMPLATE QA"
+      }
+    },
+    {
+      "archetype": "sectionDivider",
+      "content": {
+        "sectionTitle": "SAMPLE SECTION",
+        "sectionNote": "A short transition message.",
+        "page": "02"
+      }
+    },
+    {
+      "archetype": "standardContent",
+      "content": {
+        "title": "SAMPLE STANDARD CONTENT",
+        "body": "A clear one-sentence subtitle.",
+        "page": "03"
+      }
+    },
+    {
+      "archetype": "twoColumn",
+      "content": {
+        "title": "SAMPLE TWO-COLUMN CONTENT",
+        "leftHeading": "First view",
+        "leftBody": ["Editable text belongs here.", "A second independent point."],
+        "rightHeading": "Second view",
+        "rightBody": ["A balanced companion point.", "Another paired point."],
+        "page": "04"
+      }
+    },
+    {
+      "archetype": "largeVisual",
+      "content": {
+        "title": "SAMPLE LARGE VISUAL",
+        "body": "Reserve the open area for one purposeful visual.",
+        "page": "05"
+      }
+    },
+    {
+      "archetype": "kpiResults",
+      "content": {
+        "title": "SAMPLE MEASURED RESULTS",
+        "body": "Show comparable measures and their denominators.",
+        "page": "06"
+      }
+    },
+    {
+      "archetype": "processArchitecture",
+      "content": {
+        "title": "SAMPLE PROCESS ARCHITECTURE",
+        "body": "Show the data path and control boundary.",
+        "page": "07"
+      }
+    },
+    {
+      "archetype": "roadmap",
+      "content": {
+        "title": "SAMPLE ROADMAP",
+        "body": "Show phases, gates, and ownership.",
+        "page": "08"
+      }
+    },
+    {
+      "archetype": "closing",
+      "content": {
+        "message": "SAMPLE CLOSING",
+        "nextStep": "Make the next decision explicit."
+      }
+    }
+  ]
+}

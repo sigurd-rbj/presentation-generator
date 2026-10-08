@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Fictional operator dashboard wireframe</title>
+  <desc id="desc">A conceptual five-station dashboard with an advisory flag, trend panel, and review action.</desc>
+  <rect width="1200" height="680" rx="22" fill="#E9F0EF"/>
+  <rect x="32" y="30" width="1136" height="620" rx="18" fill="#FFFFFF" stroke="#B8C9CC" stroke-width="2"/>
+  <rect x="32" y="30" width="1136" height="70" rx="18" fill="#163149"/>
+  <text x="64" y="75" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#FFFFFF">NORTHSTAR  /  CELL VIEW</text>
+  <text x="1090" y="74" font-family="Arial,sans-serif" font-size="15" text-anchor="end" fill="#C9E2E1">FICTIONAL WIREFRAME</text>
+  <g font-family="Arial,sans-serif" text-anchor="middle" font-size="16" font-weight="700" fill="#163149">
+    <g transform="translate(60 130)"><rect width="202" height="98" rx="10" fill="#E7F4F1" stroke="#9CCEC6"/><text x="101" y="48">INFEED</text><text x="101" y="76" font-size="13" fill="#477267">normal</text></g>
+    <g transform="translate(278 130)"><rect width="202" height="98" rx="10" fill="#E7F4F1" stroke="#9CCEC6"/><text x="101" y="48">ORIENTATION</text><text x="101" y="76" font-size="13" fill="#477267">normal</text></g>
+    <g transform="translate(496 130)"><rect width="202" height="98" rx="10" fill="#FFF3DB" stroke="#E1B76E"/><text x="101" y="48">ROBOT</text><text x="101" y="76" font-size="13" fill="#9D6E24">review flag</text></g>
+    <g transform="translate(714 130)"><rect width="202" height="98" rx="10" fill="#E7F4F1" stroke="#9CCEC6"/><text x="101" y="48">VISION</text><text x="101" y="76" font-size="13" fill="#477267">normal</text></g>
+    <g transform="translate(932 130)"><rect width="202" height="98" rx="10" fill="#E7F4F1" stroke="#9CCEC6"/><text x="101" y="48">PACK-OUT</text><text x="101" y="76" font-size="13" fill="#477267">normal</text></g>
+  </g>
+  <rect x="60" y="258" width="705" height="278" rx="12" fill="#F8FAF9" stroke="#D2DEDF"/>
+  <text x="84" y="294" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#163149">ROBOT STATION · SIGNAL TREND</text>
+  <g stroke="#DCE8E6" stroke-width="2"><path d="M92 345 H730 M92 395 H730 M92 445 H730 M92 495 H730"/><path d="M190 320 V510 M320 320 V510 M450 320 V510 M580 320 V510 M710 320 V510"/></g>
+  <path d="M94 446 C148 433 172 449 225 423 S307 395 365 413 S466 397 520 359 S635 374 730 344" fill="none" stroke="#1A929B" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="520" cy="359" r="8" fill="#D1A34A"/>
+  <rect x="790" y="258" width="344" height="278" rx="12" fill="#FFF8EA" stroke="#E1B76E"/>
+  <text x="814" y="296" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#805B23">ADVISORY · REVIEW ONLY</text>
+  <text x="814" y="334" font-family="Arial,sans-serif" font-size="15" fill="#526D7D">Station: robot assembly</text>
+  <text x="814" y="364" font-family="Arial,sans-serif" font-size="15" fill="#526D7D">Signal: vibration trend</text>
+  <text x="814" y="394" font-family="Arial,sans-serif" font-size="15" fill="#526D7D">Context: recipe and mode</text>
+  <rect x="814" y="452" width="286" height="54" rx="9" fill="#1A929B"/>
+  <text x="957" y="486" font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#FFFFFF">ACKNOWLEDGE / REVIEW</text>
+  <text x="60" y="596" font-family="Arial,sans-serif" font-size="15" fill="#657D87">Concept image only. It shows a possible interface hierarchy, not an actual product screen or measured result.</text>
+</svg>

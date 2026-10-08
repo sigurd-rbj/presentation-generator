@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+
+# Generated presentations and rendering/QA output
+/output/
+
+# Project templates and presentation jobs are local by default.
+/templates/*/
+!/templates/example-project/
+/templates/example-project/*
+!/templates/example-project/README.md
+!/templates/example-project/config.json
+!/templates/example-project/template-info.json
+!/templates/example-project/example-template.pptx
+/presentations/*/
+!/presentations/example/
+/presentations/example/*
+!/presentations/example/brief.md
+!/presentations/example/outline.md
+!/presentations/example/fixture-notes.md
+!/presentations/example/sources/
+/presentations/example/sources/*
+!/presentations/example/sources/project-overview.md
+!/presentations/example/sources/pilot-results.md
+!/presentations/example/sources/system-architecture.md
+!/presentations/example/sources/operator-feedback.txt
+!/presentations/example/sources/roadmap.md
+!/presentations/example/sources/risks-and-open-questions.md
+!/presentations/example/assets/
+/presentations/example/assets/*
+!/presentations/example/assets/production-line-schematic.svg
+!/presentations/example/assets/advisory-data-flow.svg
+!/presentations/example/assets/operator-dashboard-wireframe.svg
+!/presentations/example/assets/robot-cell-sketch.svg
+
+# PowerPoint temporary files
+~$*.pptx
+~$*.ppt
+
+# Common temporary files and caches
+*.tmp
+*.temp
+*.bak
+*.swp
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

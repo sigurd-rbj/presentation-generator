@@ -1,0 +1,3241 @@
+{
+  "projectId": "example-project",
+  "displayName": "Northstar Manufacturing Lab (fictional)",
+  "templateFile": "templates\\example-project\\example-template.pptx",
+  "slideSize": {
+    "widthEmu": 12192000,
+    "heightEmu": 6858000,
+    "widthInches": 13.333,
+    "heightInches": 7.5
+  },
+  "slideCount": 9,
+  "slides": [
+    {
+      "number": 1,
+      "name": "untitled",
+      "layoutName": "DEFAULT",
+      "placeholders": [],
+      "elements": [
+        {
+          "name": "Shape 0",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 0,
+            "y": 0,
+            "cx": 173736,
+            "cy": 6858000,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 1",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 9546336,
+            "y": 0,
+            "cx": 2642616,
+            "cy": 2423160,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 2",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10195560,
+            "y": 411480,
+            "cx": 128016,
+            "cy": 1417320,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 3",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10552176,
+            "y": 411480,
+            "cx": 128016,
+            "cy": 1060704,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 4",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10908792,
+            "y": 411480,
+            "cx": 128016,
+            "cy": 713232,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 5",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 932688,
+            "y": 786384,
+            "cx": 73152,
+            "cy": 73152,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 6",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 969264,
+            "y": 640080,
+            "cx": 0,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 7",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 969264,
+            "y": 896112,
+            "cx": 0,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 8",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 822960,
+            "cx": 109728,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 9",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 1042416,
+            "y": 822960,
+            "cx": 109728,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 10",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 1252728,
+            "y": 630936,
+            "cx": 1627632,
+            "cy": 283464,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 18
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 11",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 1252728,
+            "y": 932688,
+            "cx": 2057400,
+            "cy": 164592,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "MANUFACTURING LAB"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "MANUFACTURING LAB"
+              ],
+              "indent": 0,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 12",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 1682496,
+            "cx": 8595360,
+            "cy": 274320,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "PROJECT REVIEW"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "PROJECT REVIEW"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 13
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_TITLE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 2148840,
+            "cx": 10561320,
+            "cy": 1133856,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{TITLE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{TITLE}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 40
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_SUBTITLE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 3502152,
+            "cx": 10287000,
+            "cy": 658368,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{SUBTITLE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{SUBTITLE}}"
+              ],
+              "indent": 0,
+              "fontSize": 22
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_META",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 5440680,
+            "cx": 9875520,
+            "cy": 320040,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{META}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{META}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 13
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 16",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 6373368,
+            "cx": 5577840,
+            "cy": 201168,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "FICTIONAL CASE"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "FICTIONAL CASE"
+              ],
+              "indent": 0,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "untitled",
+      "layoutName": "DEFAULT",
+      "placeholders": [],
+      "elements": [
+        {
+          "name": "Shape 0",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 0,
+            "y": 0,
+            "cx": 201168,
+            "cy": 6858000,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 1",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 749808,
+            "y": 1527048,
+            "cx": 164592,
+            "cy": 3273552,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 2",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 932688,
+            "y": 768096,
+            "cx": 73152,
+            "cy": 73152,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 3",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 969264,
+            "y": 621792,
+            "cx": 0,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 4",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 969264,
+            "y": 877824,
+            "cx": 0,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 5",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 804672,
+            "cx": 109728,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 6",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 1042416,
+            "y": 804672,
+            "cx": 109728,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 7",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 1252728,
+            "y": 612648,
+            "cx": 1627632,
+            "cy": 283464,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 18
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 8",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 1252728,
+            "y": 914400,
+            "cx": 2057400,
+            "cy": 164592,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "MANUFACTURING LAB"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "MANUFACTURING LAB"
+              ],
+              "indent": 0,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 9",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 1161288,
+            "y": 1847088,
+            "cx": 7315200,
+            "cy": 292608,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "SECTION"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "SECTION"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 13
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_SECTION_TITLE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 1161288,
+            "y": 2331720,
+            "cx": 9784080,
+            "cy": 1060704,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{SECTION_TITLE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{SECTION_TITLE}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 41
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_SECTION_NOTE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 1161288,
+            "y": 3703320,
+            "cx": 9509760,
+            "cy": 722376,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{SECTION_NOTE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{SECTION_NOTE}}"
+              ],
+              "indent": 0,
+              "fontSize": 21
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 12",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6309360,
+            "cx": 10881360,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 13",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6437376,
+            "cx": 9418320,
+            "cy": 173736,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR LAB  /  FICTIONAL CASE"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR LAB  /  FICTIONAL CASE"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 9
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_PAGE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10972800,
+            "y": 6409944,
+            "cx": 576072,
+            "cy": 201168,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{PAGE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{PAGE}}"
+              ],
+              "indent": 0,
+              "align": "r",
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "untitled",
+      "layoutName": "DEFAULT",
+      "placeholders": [],
+      "elements": [
+        {
+          "name": "Shape 0",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 0,
+            "y": 0,
+            "cx": 12191695,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 1",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 310896,
+            "cx": 7772400,
+            "cy": 228600,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "PROJECT REVIEW"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "PROJECT REVIEW"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_TITLE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 722376,
+            "cx": 9326880,
+            "cy": 630936,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{TITLE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{TITLE}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 28
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_BODY",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 1417320,
+            "cx": 10378440,
+            "cy": 493776,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{BODY}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{BODY}}"
+              ],
+              "indent": 0,
+              "fontSize": 16
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 4",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 10511211,
+            "y": 589971,
+            "cx": 52669,
+            "cy": 52669,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 5",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 484632,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 6",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 668975,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 7",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10405872,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 8",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10590215,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 9",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 448056,
+            "cx": 1115568,
+            "cy": 204094,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 14
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 10",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 667878,
+            "cx": 1417320,
+            "cy": 118506,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "MANUFACTURING LAB"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "MANUFACTURING LAB"
+              ],
+              "indent": 0,
+              "fontSize": 8
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 11",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6309360,
+            "cx": 10881360,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 12",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6437376,
+            "cx": 9418320,
+            "cy": 173736,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR LAB  /  FICTIONAL CASE"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR LAB  /  FICTIONAL CASE"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 9
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_PAGE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10972800,
+            "y": 6409944,
+            "cx": 576072,
+            "cy": 201168,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{PAGE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{PAGE}}"
+              ],
+              "indent": 0,
+              "align": "r",
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 14",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 2075688,
+            "cx": 10881360,
+            "cy": 3913632,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 15",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 2075688,
+            "cx": 73152,
+            "cy": 3913632,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "untitled",
+      "layoutName": "DEFAULT",
+      "placeholders": [],
+      "elements": [
+        {
+          "name": "Shape 0",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 0,
+            "y": 0,
+            "cx": 12191695,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 1",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 310896,
+            "cx": 7772400,
+            "cy": 228600,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "FIELD NOTES"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "FIELD NOTES"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_TITLE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 722376,
+            "cx": 9326880,
+            "cy": 630936,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{TITLE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{TITLE}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 28
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 3",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 1417320,
+            "cx": 10378440,
+            "cy": 493776,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 4",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 10511211,
+            "y": 589971,
+            "cx": 52669,
+            "cy": 52669,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 5",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 484632,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 6",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 668975,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 7",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10405872,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 8",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10590215,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 9",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 448056,
+            "cx": 1115568,
+            "cy": 204094,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 14
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 10",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 667878,
+            "cx": 1417320,
+            "cy": 118506,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "MANUFACTURING LAB"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "MANUFACTURING LAB"
+              ],
+              "indent": 0,
+              "fontSize": 8
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 11",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6309360,
+            "cx": 10881360,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 12",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6437376,
+            "cx": 9418320,
+            "cy": 173736,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR LAB  /  FICTIONAL CASE"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR LAB  /  FICTIONAL CASE"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 9
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_PAGE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10972800,
+            "y": 6409944,
+            "cx": 576072,
+            "cy": 201168,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{PAGE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{PAGE}}"
+              ],
+              "indent": 0,
+              "align": "r",
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 14",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 1938528,
+            "cx": 5276088,
+            "cy": 4078224,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 15",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 6245352,
+            "y": 1938528,
+            "cx": 5276088,
+            "cy": 4078224,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 16",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 1938528,
+            "cx": 5276088,
+            "cy": 91440,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 17",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 6245352,
+            "y": 1938528,
+            "cx": 5276088,
+            "cy": 91440,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Field_LEFT_HEADING",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 941832,
+            "y": 2276856,
+            "cx": 4645152,
+            "cy": 438912,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{LEFT_HEADING}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{LEFT_HEADING}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 21
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_LEFT_BODY",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 941832,
+            "y": 2862072,
+            "cx": 4645152,
+            "cy": 2724912,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{LEFT_BODY}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{LEFT_BODY}}"
+              ],
+              "indent": 0,
+              "fontSize": 17
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_RIGHT_HEADING",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 6528816,
+            "y": 2276856,
+            "cx": 4645152,
+            "cy": 438912,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{RIGHT_HEADING}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{RIGHT_HEADING}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 21
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_RIGHT_BODY",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 6528816,
+            "y": 2862072,
+            "cx": 4645152,
+            "cy": 2724912,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{RIGHT_BODY}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{RIGHT_BODY}}"
+              ],
+              "indent": 0,
+              "fontSize": 17
+            }
+          ],
+          "altText": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "untitled",
+      "layoutName": "DEFAULT",
+      "placeholders": [],
+      "elements": [
+        {
+          "name": "Shape 0",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 0,
+            "y": 0,
+            "cx": 12191695,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 1",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 310896,
+            "cx": 7772400,
+            "cy": 228600,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "PILOT SCOPE"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "PILOT SCOPE"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_TITLE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 722376,
+            "cx": 9326880,
+            "cy": 630936,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{TITLE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{TITLE}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 28
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_BODY",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 1417320,
+            "cx": 10378440,
+            "cy": 493776,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{BODY}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{BODY}}"
+              ],
+              "indent": 0,
+              "fontSize": 16
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 4",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 10511211,
+            "y": 589971,
+            "cx": 52669,
+            "cy": 52669,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 5",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 484632,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 6",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 668975,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 7",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10405872,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 8",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10590215,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 9",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 448056,
+            "cx": 1115568,
+            "cy": 204094,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 14
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 10",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 667878,
+            "cx": 1417320,
+            "cy": 118506,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "MANUFACTURING LAB"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "MANUFACTURING LAB"
+              ],
+              "indent": 0,
+              "fontSize": 8
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 11",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6309360,
+            "cx": 10881360,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 12",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6437376,
+            "cx": 9418320,
+            "cy": 173736,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR LAB  /  FICTIONAL CASE"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR LAB  /  FICTIONAL CASE"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 9
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_PAGE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10972800,
+            "y": 6409944,
+            "cx": 576072,
+            "cy": 201168,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{PAGE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{PAGE}}"
+              ],
+              "indent": 0,
+              "align": "r",
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 14",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 2075688,
+            "cx": 10881360,
+            "cy": 3913632,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 15",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 868680,
+            "y": 5724144,
+            "cx": 10442448,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "untitled",
+      "layoutName": "DEFAULT",
+      "placeholders": [],
+      "elements": [
+        {
+          "name": "Shape 0",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 0,
+            "y": 0,
+            "cx": 12191695,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 1",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 310896,
+            "cx": 7772400,
+            "cy": 228600,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "MEASURED RESULTS"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "MEASURED RESULTS"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_TITLE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 722376,
+            "cx": 9326880,
+            "cy": 630936,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{TITLE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{TITLE}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 28
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_BODY",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 1417320,
+            "cx": 10378440,
+            "cy": 493776,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{BODY}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{BODY}}"
+              ],
+              "indent": 0,
+              "fontSize": 16
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 4",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 10511211,
+            "y": 589971,
+            "cx": 52669,
+            "cy": 52669,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 5",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 484632,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 6",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 668975,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 7",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10405872,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 8",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10590215,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 9",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 448056,
+            "cx": 1115568,
+            "cy": 204094,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 14
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 10",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 667878,
+            "cx": 1417320,
+            "cy": 118506,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "MANUFACTURING LAB"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "MANUFACTURING LAB"
+              ],
+              "indent": 0,
+              "fontSize": 8
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 11",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6309360,
+            "cx": 10881360,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 12",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6437376,
+            "cx": 9418320,
+            "cy": 173736,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR LAB  /  FICTIONAL CASE"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR LAB  /  FICTIONAL CASE"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 9
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_PAGE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10972800,
+            "y": 6409944,
+            "cx": 576072,
+            "cy": 201168,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{PAGE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{PAGE}}"
+              ],
+              "indent": 0,
+              "align": "r",
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 14",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 365760,
+            "y": 2084832,
+            "cx": 91440,
+            "cy": 3840480,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 15",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 2084832,
+            "cx": 10881360,
+            "cy": 3840480,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "untitled",
+      "layoutName": "DEFAULT",
+      "placeholders": [],
+      "elements": [
+        {
+          "name": "Shape 0",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 0,
+            "y": 0,
+            "cx": 12191695,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 1",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 310896,
+            "cx": 7772400,
+            "cy": 228600,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "TECHNICAL APPROACH"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "TECHNICAL APPROACH"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_TITLE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 722376,
+            "cx": 9326880,
+            "cy": 630936,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{TITLE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{TITLE}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 28
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_BODY",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 1417320,
+            "cx": 10378440,
+            "cy": 493776,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{BODY}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{BODY}}"
+              ],
+              "indent": 0,
+              "fontSize": 16
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 4",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 10511211,
+            "y": 589971,
+            "cx": 52669,
+            "cy": 52669,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 5",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 484632,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 6",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 668975,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 7",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10405872,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 8",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10590215,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 9",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 448056,
+            "cx": 1115568,
+            "cy": 204094,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 14
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 10",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 667878,
+            "cx": 1417320,
+            "cy": 118506,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "MANUFACTURING LAB"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "MANUFACTURING LAB"
+              ],
+              "indent": 0,
+              "fontSize": 8
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 11",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6309360,
+            "cx": 10881360,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 12",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6437376,
+            "cx": 9418320,
+            "cy": 173736,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR LAB  /  FICTIONAL CASE"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR LAB  /  FICTIONAL CASE"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 9
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_PAGE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10972800,
+            "y": 6409944,
+            "cx": 576072,
+            "cy": 201168,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{PAGE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{PAGE}}"
+              ],
+              "indent": 0,
+              "align": "r",
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 14",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 2084832,
+            "cx": 10881360,
+            "cy": 3840480,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "untitled",
+      "layoutName": "DEFAULT",
+      "placeholders": [],
+      "elements": [
+        {
+          "name": "Shape 0",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 0,
+            "y": 0,
+            "cx": 12191695,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 1",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 310896,
+            "cx": 7772400,
+            "cy": 228600,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NEXT GATE / ROADMAP"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NEXT GATE / ROADMAP"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_TITLE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 722376,
+            "cx": 9326880,
+            "cy": 630936,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{TITLE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{TITLE}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 28
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_BODY",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 1417320,
+            "cx": 10378440,
+            "cy": 493776,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{BODY}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{BODY}}"
+              ],
+              "indent": 0,
+              "fontSize": 16
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 4",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 10511211,
+            "y": 589971,
+            "cx": 52669,
+            "cy": 52669,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 5",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 484632,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 6",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10537546,
+            "y": 668975,
+            "cx": 0,
+            "cy": 79004,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 7",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10405872,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 8",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 10590215,
+            "y": 616306,
+            "cx": 79004,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 9",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 448056,
+            "cx": 1115568,
+            "cy": 204094,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 14
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 10",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10741640,
+            "y": 667878,
+            "cx": 1417320,
+            "cy": 118506,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "MANUFACTURING LAB"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "MANUFACTURING LAB"
+              ],
+              "indent": 0,
+              "fontSize": 8
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 11",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6309360,
+            "cx": 10881360,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 12",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 6437376,
+            "cx": 9418320,
+            "cy": 173736,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR LAB  /  FICTIONAL CASE"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR LAB  /  FICTIONAL CASE"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 9
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_PAGE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 10972800,
+            "y": 6409944,
+            "cx": 576072,
+            "cy": 201168,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{PAGE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{PAGE}}"
+              ],
+              "indent": 0,
+              "align": "r",
+              "isBold": true,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 14",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 2084832,
+            "cx": 10881360,
+            "cy": 3840480,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 15",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 658368,
+            "y": 5815584,
+            "cx": 10881360,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "untitled",
+      "layoutName": "DEFAULT",
+      "placeholders": [],
+      "elements": [
+        {
+          "name": "Shape 0",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 0,
+            "y": 0,
+            "cx": 173736,
+            "cy": 6858000,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 1",
+          "type": "sp",
+          "visualType": "vectorShape",
+          "nameIdx": 0,
+          "position": {
+            "x": 932688,
+            "y": 786384,
+            "cx": 73152,
+            "cy": 73152,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 2",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 969264,
+            "y": 640080,
+            "cx": 0,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 3",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 969264,
+            "y": 896112,
+            "cx": 0,
+            "cy": 109728,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 4",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 822960,
+            "cx": 109728,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Shape 5",
+          "type": "sp",
+          "visualType": "vectorLine",
+          "nameIdx": 0,
+          "position": {
+            "x": 1042416,
+            "y": 822960,
+            "cx": 109728,
+            "cy": 0,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 6",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 1252728,
+            "y": 630936,
+            "cx": 1627632,
+            "cy": 283464,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 18
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Text 7",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 1252728,
+            "y": 932688,
+            "cx": 2057400,
+            "cy": 164592,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "MANUFACTURING LAB"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "MANUFACTURING LAB"
+              ],
+              "indent": 0,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_MESSAGE",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 2240280,
+            "cx": 10469880,
+            "cy": 1133856,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{MESSAGE}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{MESSAGE}}"
+              ],
+              "indent": 0,
+              "isBold": true,
+              "fontSize": 42
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Field_NEXT_STEP",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 3712464,
+            "cx": 10332720,
+            "cy": 749808,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "{{NEXT_STEP}}"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "{{NEXT_STEP}}"
+              ],
+              "indent": 0,
+              "fontSize": 21
+            }
+          ],
+          "altText": null
+        },
+        {
+          "name": "Shape 10",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 6080760,
+            "cx": 2788920,
+            "cy": 73152,
+            "rot": 0
+          },
+          "hasTextBody": false,
+          "text": [],
+          "paragraphs": [],
+          "altText": null
+        },
+        {
+          "name": "Text 11",
+          "type": "sp",
+          "visualType": "rectangle",
+          "nameIdx": 0,
+          "position": {
+            "x": 786384,
+            "y": 6345936,
+            "cx": 7955280,
+            "cy": 201168,
+            "rot": 0
+          },
+          "hasTextBody": true,
+          "text": [
+            "NORTHSTAR MANUFACTURING LAB · FICTIONAL"
+          ],
+          "paragraphs": [
+            {
+              "texts": [
+                "NORTHSTAR MANUFACTURING LAB · FICTIONAL"
+              ],
+              "indent": 0,
+              "fontSize": 10
+            }
+          ],
+          "altText": null
+        }
+      ]
+    }
+  ]
+}

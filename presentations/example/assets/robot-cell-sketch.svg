@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Fictional robotic assembly cell sketch</title>
+  <desc id="desc">A simplified robot arm working beside a guarded conveyor, intended as optional context art.</desc>
+  <rect width="900" height="600" rx="24" fill="#F4F8F7"/>
+  <text x="52" y="72" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#163149">ROBOTIC ASSEMBLY · CONCEPT SKETCH</text>
+  <rect x="82" y="405" width="730" height="76" rx="14" fill="#D9E6E6" stroke="#8BAFB4" stroke-width="3"/>
+  <g fill="#577B86"><circle cx="170" cy="443" r="19"/><circle cx="315" cy="443" r="19"/><circle cx="460" cy="443" r="19"/><circle cx="605" cy="443" r="19"/><circle cx="750" cy="443" r="19"/></g>
+  <rect x="328" y="300" width="145" height="107" rx="13" fill="#17384C"/>
+  <circle cx="402" cy="298" r="42" fill="#1A929B" stroke="#FFFFFF" stroke-width="9"/>
+  <path d="M403 298 L485 228 L551 284" fill="none" stroke="#1A929B" stroke-width="37" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="485" cy="228" r="25" fill="#17384C" stroke="#FFFFFF" stroke-width="7"/>
+  <circle cx="551" cy="284" r="23" fill="#17384C" stroke="#FFFFFF" stroke-width="7"/>
+  <path d="M553 288 L600 326" fill="none" stroke="#D1A34A" stroke-width="22" stroke-linecap="round"/>
+  <path d="M594 329 L578 361 M606 334 L624 361" fill="none" stroke="#17384C" stroke-width="10" stroke-linecap="round"/>
+  <rect x="641" y="360" width="88" height="44" rx="8" fill="#FFFFFF" stroke="#1A929B" stroke-width="4"/>
+  <path d="M90 194 H223 V354 H90z M678 176 H809 V353 H678z" fill="none" stroke="#A9C9CA" stroke-width="8" stroke-dasharray="13 13"/>
+  <text x="52" y="546" font-family="Arial,sans-serif" font-size="16" fill="#657D87">Original context art for the fictional fixture; optional background material, not a literal machine design.</text>
+</svg>

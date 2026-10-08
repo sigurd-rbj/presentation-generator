@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">Advisory digital-shadow data path</title>
+  <desc id="desc">Read-only data flow from sensors through an edge gateway and digital shadow to the operator dashboard.</desc>
+  <rect width="1200" height="470" rx="24" fill="#F4F8F7"/>
+  <text x="58" y="68" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#163149">ADVISORY DATA PATH</text>
+  <text x="58" y="106" font-family="Arial,sans-serif" font-size="17" fill="#5B7280">Fictional architecture · condition data moves toward an operator review</text>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(57 155)"><rect width="245" height="155" rx="15" fill="#FFFFFF" stroke="#1A929B" stroke-width="3"/><text x="122" y="58" font-size="22" font-weight="700" fill="#163149">18 SENSORS</text><text x="122" y="97" font-size="16" fill="#5B7280">5 stations · 1 Hz</text></g>
+    <g transform="translate(335 155)"><rect width="245" height="155" rx="15" fill="#FFFFFF" stroke="#1A929B" stroke-width="3"/><text x="122" y="58" font-size="22" font-weight="700" fill="#163149">EDGE</text><text x="122" y="97" font-size="16" fill="#5B7280">time · recipe · mode</text></g>
+    <g transform="translate(613 155)"><rect width="245" height="155" rx="15" fill="#FFFFFF" stroke="#D1A34A" stroke-width="3"/><text x="122" y="58" font-size="22" font-weight="700" fill="#163149">SHADOW</text><text x="122" y="97" font-size="16" fill="#5B7280">state · baseline · score</text></g>
+    <g transform="translate(891 155)"><rect width="245" height="155" rx="15" fill="#FFFFFF" stroke="#1A929B" stroke-width="3"/><text x="122" y="58" font-size="22" font-weight="700" fill="#163149">DASHBOARD</text><text x="122" y="97" font-size="16" fill="#5B7280">trend · advisory flag</text></g>
+  </g>
+  <g fill="none" stroke="#2D7180" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M309 233 H325"/><path d="M587 233 H603"/><path d="M865 233 H881"/></g>
+  <g fill="#2D7180"><path d="M325 233 l-11 -8 v16z"/><path d="M603 233 l-11 -8 v16z"/><path d="M881 233 l-11 -8 v16z"/></g>
+  <rect x="58" y="354" width="1078" height="61" rx="12" fill="#E4EFEE" stroke="#A9CECB"/>
+  <text x="597" y="392" font-family="Arial,sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#1D5660">READ-ONLY TO EQUIPMENT CONTROL  ·  OPERATOR DECIDES NEXT ACTION</text>
+</svg>

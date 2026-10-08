@@ -1,0 +1,22 @@
+{
+  "name": "my-presentation",
+  "version": "1.0.0",
+  "description": "Editable PowerPoint generator with reusable themes and local project templates",
+  "private": true,
+  "main": "src/presentation.js",
+  "scripts": {
+    "build": "node src/presentation.js",
+    "build:example": "node src/presentation.js --project example-project --presentation example",
+    "outline:summary": "node scripts/outline-summary.js",
+    "inspect:template": "node scripts/inspect-template.js",
+    "test:template": "node scripts/test-template.js",
+    "render": "node scripts/render-presentation.js",
+    "validate:presentation": "node scripts/validate-presentation.js",
+    "test": "node test/framework.test.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "pptx-automizer": "^0.9.4",
+    "pptxgenjs": "^4.0.1"
+  }
+}

@@ -1,0 +1,13 @@
+Fictional operator feedback from the Northstar pilot review
+
+The following notes are invented and paraphrased. They are qualitative feedback, not a survey or a measured usability score.
+
+Shift lead: "The five-station view helped us see whether a stop started upstream or at the robot. I would keep the station history visible while opening an alert."
+
+Assembly operator: "The trend was useful, but the amber advisory banner looked too much like a machine alarm at first. Label it clearly as review-only, and show the exact signal and timestamp."
+
+Maintenance technician: "The event context made handover easier. I need a quick comparison with the last similar recipe and a way to mark a flag as duplicate or not actionable."
+
+Operations manager: "The shorter acknowledgement time is encouraging, but I want the night shift included before we say this works across the operation."
+
+Across the pilot, operators reviewed 24 advisory flags; 18 were marked relevant and 6 not actionable. The team wants to examine duplicate flags and display wording in the next validation gate. No operator requested automatic machine intervention.
